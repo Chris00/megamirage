@@ -1,0 +1,180 @@
+[submodule "ezxmlm"]
+	path = ezxmlm
+	url = https://github.com/avsm/ezxmlm
+[submodule "ocaml-github"]
+	path = ocaml-github
+	url = https://github.com/avsm/ocaml-github
+[submodule "ocaml-xenstore-clients"]
+	path = ocaml-xenstore-clients
+	url = https://github.com/djs55/ocaml-xenstore-clients
+[submodule "cowabloga"]
+	path = cowabloga
+	url = https://github.com/mirage/cowabloga
+[submodule "dyntype"]
+	path = dyntype
+	url = https://github.com/mirage/dyntype
+[submodule "ezjsonm"]
+	path = ezjsonm
+	url = https://github.com/mirage/ezjsonm
+[submodule "io-page"]
+	path = io-page
+	url = https://github.com/mirage/io-page
+[submodule "irmin"]
+	path = irmin
+	url = https://github.com/mirage/irmin
+[submodule "merge-queues"]
+	path = merge-queues
+	url = https://github.com/mirage/merge-queues
+[submodule "merge-ropes"]
+	path = merge-ropes
+	url = https://github.com/mirage/merge-ropes
+[submodule "mirage"]
+	path = mirage
+	url = https://github.com/mirage/mirage
+[submodule "mirage-block-unix"]
+	path = mirage-block-unix
+	url = https://github.com/mirage/mirage-block-unix
+[submodule "mirage-block-volume"]
+	path = mirage-block-volume
+	url = https://github.com/mirage/mirage-block-volume
+[submodule "mirage-block-xen"]
+	path = mirage-block-xen
+	url = https://github.com/mirage/mirage-block-xen
+[submodule "mirage-clock"]
+	path = mirage-clock
+	url = https://github.com/mirage/mirage-clock
+[submodule "mirage-console"]
+	path = mirage-console
+	url = https://github.com/mirage/mirage-console
+[submodule "mirage-decks"]
+	path = mirage-decks
+	url = https://github.com/mirage/mirage-decks
+[submodule "mirage-entropy"]
+	path = mirage-entropy
+	url = https://github.com/mirage/mirage-entropy
+[submodule "mirage-fs-unix"]
+	path = mirage-fs-unix
+	url = https://github.com/mirage/mirage-fs-unix
+[submodule "mirage-http"]
+	path = mirage-http
+	url = https://github.com/mirage/mirage-http
+[submodule "mirage-net-macosx"]
+	path = mirage-net-macosx
+	url = https://github.com/mirage/mirage-net-macosx
+[submodule "mirage-net-unix"]
+	path = mirage-net-unix
+	url = https://github.com/mirage/mirage-net-unix
+[submodule "mirage-net-xen"]
+	path = mirage-net-xen
+	url = https://github.com/mirage/mirage-net-xen
+[submodule "mirage-platform"]
+	path = mirage-platform
+	url = https://github.com/mirage/mirage-platform
+[submodule "mirage-profile"]
+	path = mirage-profile
+	url = https://github.com/mirage/mirage-profile
+[submodule "mirage-skeleton"]
+	path = mirage-skeleton
+	url = https://github.com/mirage/mirage-skeleton
+[submodule "mirage-tc"]
+	path = mirage-tc
+	url = https://github.com/mirage/mirage-tc
+[submodule "mirage-tcpip"]
+	path = mirage-tcpip
+	url = https://github.com/mirage/mirage-tcpip
+[submodule "mirage-vagrant-vms"]
+	path = mirage-vagrant-vms
+	url = https://github.com/mirage/mirage-vagrant-vms
+[submodule "mirage-www"]
+	path = mirage-www
+	url = https://github.com/mirage/mirage-www
+[submodule "mirage-xen-minios"]
+	path = mirage-xen-minios
+	url = https://github.com/mirage/mirage-xen-minios
+[submodule "ocaml-cohttp"]
+	path = ocaml-cohttp
+	url = https://github.com/mirage/ocaml-cohttp
+[submodule "ocaml-conduit"]
+	path = ocaml-conduit
+	url = https://github.com/mirage/ocaml-conduit
+[submodule "ocaml-cow"]
+	path = ocaml-cow
+	url = https://github.com/mirage/ocaml-cow
+[submodule "ocaml-crunch"]
+	path = ocaml-crunch
+	url = https://github.com/mirage/ocaml-crunch
+[submodule "ocaml-cstruct"]
+	path = ocaml-cstruct
+	url = https://github.com/mirage/ocaml-cstruct
+[submodule "ocaml-dns"]
+	path = ocaml-dns
+	url = https://github.com/mirage/ocaml-dns
+[submodule "ocaml-fat"]
+	path = ocaml-fat
+	url = https://github.com/mirage/ocaml-fat
+[submodule "ocaml-git"]
+	path = ocaml-git
+	url = https://github.com/mirage/ocaml-git
+[submodule "ocaml-hex"]
+	path = ocaml-hex
+	url = https://github.com/mirage/ocaml-hex
+[submodule "ocaml-ipaddr"]
+	path = ocaml-ipaddr
+	url = https://github.com/mirage/ocaml-ipaddr
+[submodule "ocaml-lazy-trie"]
+	path = ocaml-lazy-trie
+	url = https://github.com/mirage/ocaml-lazy-trie
+[submodule "ocaml-mstruct"]
+	path = ocaml-mstruct
+	url = https://github.com/mirage/ocaml-mstruct
+[submodule "ocaml-mbr"]
+	path = ocaml-mbr
+	url = https://github.com/mirage/ocaml-mbr
+[submodule "ocaml-pcap"]
+	path = ocaml-pcap
+	url = https://github.com/mirage/ocaml-pcap
+[submodule "ocaml-tuntap"]
+	path = ocaml-tuntap
+	url = https://github.com/mirage/ocaml-tuntap
+[submodule "ocaml-tar"]
+	path = ocaml-tar
+	url = https://github.com/mirage/ocaml-tar
+[submodule "ocaml-uri"]
+	path = ocaml-uri
+	url = https://github.com/mirage/ocaml-uri
+[submodule "ocaml-vchan"]
+	path = ocaml-vchan
+	url = https://github.com/mirage/ocaml-vchan
+[submodule "ocaml-vmnet"]
+	path = ocaml-vmnet
+	url = https://github.com/mirage/ocaml-vmnet
+[submodule "ocaml-xenstore"]
+	path = ocaml-xenstore
+	url = https://github.com/mirage/ocaml-xenstore
+[submodule "shared-memory-ring"]
+	path = shared-memory-ring
+	url = https://github.com/mirage/shared-memory-ring
+[submodule "xen-disk"]
+	path = xen-disk
+	url = https://github.com/mirage/xen-disk
+[submodule "ocaml-tls"]
+	path = ocaml-tls
+	url = https://github.com/mirleft/ocaml-tls
+[submodule "ocaml-x509"]
+	path = ocaml-x509
+	url = https://github.com/mirleft/ocaml-x509
+[submodule "ocaml-nocrypto"]
+	path = ocaml-nocrypto
+	url = https://github.com/mirleft/ocaml-nocrypto
+[submodule "ocaml-asn1-combinators"]
+	path = ocaml-asn1-combinators
+	url = https://github.com/mirleft/ocaml-asn1-combinators
+[submodule "ocaml-ctypes"]
+	path = ocaml-ctypes
+	url = https://github.com/ocamllabs/ocaml-ctypes
+[submodule "alcotest"]
+	path = alcotest
+	url = https://github.com/samoht/alcotest
+[submodule "mirage-trace-viewer"]
+	path = mirage-trace-viewer
+	url = https://github.com/talex5/mirage-trace-viewer
