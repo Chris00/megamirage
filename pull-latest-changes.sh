@@ -1,5 +1,6 @@
 #!/bin/sh -e
 
+./gen-submodules.sh
 git pull -q
 git submodule init -q
 git submodule update -q
