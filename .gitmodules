@@ -178,3 +178,9 @@
 [submodule "mirage-trace-viewer"]
 	path = mirage-trace-viewer
 	url = https://github.com/talex5/mirage-trace-viewer
+[submodule "ocaml-magic-mime"]
+	path = ocaml-magic-mime
+	url = https://github.com/mirage/ocaml-magic-mime
+[submodule "mirage-flow"]
+	path = mirage-flow
+	url = https://github.com/mirage/mirage-flow
