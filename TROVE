@@ -60,3 +60,7 @@ mirleft/ocaml-asn1-combinators
 ocamllabs/ocaml-ctypes
 samoht/alcotest
 talex5/mirage-trace-viewer
+magnuss/mirage-vnetif
+magnuss/jitsu
+magnuss/mirage-bootvar
+magnuss/mirage-mimic

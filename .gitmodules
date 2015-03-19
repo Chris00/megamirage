@@ -184,3 +184,15 @@
 [submodule "mirage-flow"]
 	path = mirage-flow
 	url = https://github.com/mirage/mirage-flow
+[submodule "mirage-vnetif"]
+	path = mirage-vnetif
+	url = https://github.com/magnuss/mirage-vnetif
+[submodule "jitsu"]
+	path = jitsu
+	url = https://github.com/magnuss/jitsu
+[submodule "mirage-bootvar"]
+	path = mirage-bootvar
+	url = https://github.com/magnuss/mirage-bootvar
+[submodule "mirage-mimic"]
+	path = mirage-mimic
+	url = https://github.com/magnuss/mirage-mimic
