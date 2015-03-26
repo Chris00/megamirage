@@ -196,3 +196,6 @@
 [submodule "mirage-mimic"]
 	path = mirage-mimic
 	url = https://github.com/magnuss/mirage-mimic
+[submodule "mirage-xen"]
+	path = mirage-xen
+	url = https://github.com/mirage/mirage-xen
