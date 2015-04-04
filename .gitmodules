@@ -205,3 +205,21 @@
 [submodule "p>"]
 	path = p>
 	url = https://github.com/server</p>
+[submodule "<!DOCTYPE"]
+	path = <!DOCTYPE
+	url = https://github.com/<!DOCTYPE/
+[submodule "PUBLIC"]
+	path = PUBLIC
+	url = https://github.com/PUBLIC/
+[submodule "\"-"]
+	path = \"-
+	url = https://github.com/\"-/
+[submodule "Connection"]
+	path = Connection
+	url = https://github.com/Connection/
+[submodule "title>"]
+	path = title>
+	url = https://github.com/out</title>
+[submodule "h1>"]
+	path = h1>
+	url = https://github.com/out</h1>
