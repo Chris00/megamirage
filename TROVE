@@ -1,18 +1,20 @@
 avsm/ezxmlm
-avsm/ocaml-github
 djs55/ocaml-xenstore-clients
 mirage/ocaml-magic-mime
+mirage/ocaml-github
 mirage/cowabloga
 mirage/dyntype
 mirage/ezjsonm
 mirage/io-page
 mirage/irmin
+mirage/jitsu
 mirage/merge-queues
 mirage/merge-ropes
 mirage/mirage
 mirage/mirage-block-unix
 mirage/mirage-block-volume
 mirage/mirage-block-xen
+mirage/mirage-bootvar-xen
 mirage/mirage-clock
 mirage/mirage-console
 mirage/mirage-decks
@@ -29,6 +31,7 @@ mirage/mirage-skeleton
 mirage/mirage-tc
 mirage/mirage-tcpip
 mirage/mirage-vagrant-vms
+mirage/mirage-vnetif
 mirage/mirage-www
 mirage/mirage-xen-minios
 mirage/ocaml-cohttp
@@ -52,6 +55,7 @@ mirage/ocaml-vchan
 mirage/ocaml-vmnet
 mirage/ocaml-xenstore
 mirage/shared-memory-ring
+mirage/synjitsu
 mirage/xen-disk
 mirleft/ocaml-tls
 mirleft/ocaml-x509
@@ -60,7 +64,4 @@ mirleft/ocaml-asn1-combinators
 ocamllabs/ocaml-ctypes
 samoht/alcotest
 talex5/mirage-trace-viewer
-magnuss/mirage-vnetif
-magnuss/jitsu
-magnuss/mirage-bootvar
 magnuss/mirage-mimic

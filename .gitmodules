@@ -217,3 +217,15 @@
 [submodule "h1>"]
 	path = h1>
 	url = https://github.com/out</h1>
+[submodule "mirage-bootvar-xen"]
+	path = mirage-bootvar-xen
+	url = https://github.com/mirage/mirage-bootvar-xen
+[submodule "synjitsu"]
+	path = synjitsu
+	url = https://github.com/mirage/synjitsu
+[submodule "ocaml-asn1-combinators"]
+	path = ocaml-asn1-combinators
+	url = https://github.com/mirleft/ocaml-asn1-combinators
+[submodule "alcotest"]
+	path = alcotest
+	url = https://github.com/samoht/alcotest
