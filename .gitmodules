@@ -166,15 +166,9 @@
 [submodule "ocaml-nocrypto"]
 	path = ocaml-nocrypto
 	url = https://github.com/mirleft/ocaml-nocrypto
-[submodule "ocaml-asn1-combinators"]
-	path = ocaml-asn1-combinators
-	url = https://github.com/mirleft/ocaml-asn1-combinators
 [submodule "ocaml-ctypes"]
 	path = ocaml-ctypes
 	url = https://github.com/ocamllabs/ocaml-ctypes
-[submodule "alcotest"]
-	path = alcotest
-	url = https://github.com/samoht/alcotest
 [submodule "mirage-trace-viewer"]
 	path = mirage-trace-viewer
 	url = https://github.com/talex5/mirage-trace-viewer
