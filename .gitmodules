@@ -229,3 +229,6 @@
 [submodule "alcotest"]
 	path = alcotest
 	url = https://github.com/samoht/alcotest
+[submodule "read"]
+	path = read
+	url = https://github.com/read/
