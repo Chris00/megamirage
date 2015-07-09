@@ -232,3 +232,9 @@
 [submodule "read"]
 	path = read
 	url = https://github.com/read/
+[submodule "mirage-seal"]
+	path = mirage-seal
+	url = https://github.com/mirage/mirage-seal
+[submodule "backend"]
+	path = backend
+	url = https://github.com/backend/
