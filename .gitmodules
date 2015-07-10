@@ -238,3 +238,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/backend/
+[submodule "mirage-channel"]
+	path = mirage-channel
+	url = https://github.com/mirage/mirage-channel
+[submodule "mirage-nat"]
+	path = mirage-nat
+	url = https://github.com/yomimono/mirage-nat
