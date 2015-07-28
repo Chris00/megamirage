@@ -13,7 +13,7 @@ You can clone all the source code by:
 
     git clone git://github.com/mirage/megamirage
     git submodule init
-    git submodule pull
+    git submodule update
 
 ## TODO
 
